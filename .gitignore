@@ -4,3 +4,8 @@ venv/
 .pytest_cache/
 db.sqlite3
 .coverage
+.pytest_cache
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
